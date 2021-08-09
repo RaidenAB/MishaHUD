@@ -9,12 +9,12 @@
 		"zpos"			"0"
 		"wide"			"130"
 		"tall"			"65"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/medic_charge_blue_bg"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			""
 		"scaleImage"	"1"	
-		"teambg_2"		"../hud/medic_charge_red_bg"
-		"teambg_3"		"../hud/medic_charge_blue_bg"				
+		"teambg_2"		""
+		"teambg_3"		""				
 	}
 	
 	"ChargeLabel"
@@ -189,8 +189,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ResistIcon"
-		"xpos"			"0"
-		"ypos"			"-25"
+		"xpos"			"550"
+		"ypos"			"250"
 		"wide"			"36"
 		"tall"			"36"
 		"visible"		"1"
