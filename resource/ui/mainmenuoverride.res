@@ -14,7 +14,7 @@
 //		"bgcolor_override"	"0 0 0 240"
 		
 		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
-		"blog_url"		"http://www.teamfortress.com/"
+		"blog_url"		"https://github.com/RaidenAB/MishaHUD"
 		
 		"button_x_offset"	"-285"
 		"button_y"			"120"
